@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/matheushco-ti/"><img src="https://img.shields.io/badge/-Matheus%20H%20Costa%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matheushenriqueavare@gmail.com"><img src="https://img.shields.io/badge/-matheushenriqueavare@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="matheushco.ti@outlook.com">
-    <img src="https://img.shields.io/badge/-felipemota.rocha@outlook.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-matheushco.ti@outlook.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white"/>
 </a>
 
 </p>
