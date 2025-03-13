@@ -4,7 +4,7 @@
 <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/matheushco-ti/"><img src="https://img.shields.io/badge/-Matheus%20H%20Costa%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<!-- <a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
+<a href="mailto:matheushenriqueavare@gmail.com"><img src="https://img.shields.io/badge/-matheushenriqueavare@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="matheushco.ti@outlook.com">
     <img src="https://img.shields.io/badge/-felipemota.rocha@outlook.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white"/>
 </a>
